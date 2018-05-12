@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3588'
     url: http://www.gutenberg.org/2009/agents/3588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13790#Life-And-Letters-Of-John-Gay--1685-1732--Author-of--The-Beggar-s-Opera-
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2004-10-19'
 gutenberg_type: Text
