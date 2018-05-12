@@ -1,0 +1,29 @@
+_repo: Life-And-Letters-Of-John-Gay--1685-1732--Author-of--The-Beggar-s-Opera-_13790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Melville, Lewis
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '3588'
+    url: http://www.gutenberg.org/2009/agents/3588
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13790'
+  lccn: '22008080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Gay, John, 1685-1732'
+title: Life And Letters Of John Gay (1685-1732), Author of "The Beggar's Opera"
+url: http://www.gutenberg.org/ebooks/13790
